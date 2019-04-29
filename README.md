@@ -111,5 +111,7 @@ UIGestureRecognizer-ObjectiveC
 2019-04-29 00:07:18.177142-0600 AlertViewControllerExample[26051:2321451] Recognized Double Tap
 ```
 
+![Captura de Pantalla 2019-04-29 a la(s) 0 07 53](https://user-images.githubusercontent.com/24994818/56877338-87ad2780-6a0a-11e9-9468-392e5ff96b85.png)
+
 ![Captura de Pantalla 2019-04-29 a la(s) 0 04 03](https://user-images.githubusercontent.com/24994818/56877304-461c7c80-6a0a-11e9-9b4a-0526d9a81893.png)
 
